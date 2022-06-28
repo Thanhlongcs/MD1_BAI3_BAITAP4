@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.table1{
+    border:none;
+    color: blue;
+    line-height: 1.5;
+    width: 620px;
+    height:30px;
+    margin: auto;
+}
+
+#right{
+    text-align: right;
+}
+
+#table2, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#table2{
+    width: 700px;
+    height: 60px;
+    margin: auto;
+}
+
+.week{
+    text-align: center;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.orange{
+    background-color: orange;
+}
